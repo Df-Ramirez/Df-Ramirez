@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Df-Ramirez/Df-Ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 00190526
 - 😄 Pronouns: he
 - ⚡ Fun fact:Jugar ajedrez 
--->
